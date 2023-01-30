@@ -1,5 +1,5 @@
 # Projeto Dashboard Adm Financeiro
-------
+
 ### Backend
 - ExpressJS
 - MongoDB
@@ -8,3 +8,4 @@
 - ReactJS
 - Material UI
 - Nivo (Gráficos)
+- Tailwind CSS
