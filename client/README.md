@@ -7,5 +7,5 @@
 ### Frontend
 - ReactJS
 - Material UI
-- Nivo (Gráficos)
+- Nivo
 - Tailwind CSS
